@@ -29,7 +29,7 @@
 ---
 ## Контакты
 - Telegram: [t.me/F0rzend](https://t.me/F0rzend)
-- GitHub: [github.com/F0rzend-dev](https://github.com/F0rzend-dev)
+- GitHub: [github.com/F0rz3nd](https://github.com/F0rz3nd)
 - LinkedIn: [linkedin.com/in/f0rzend](https://linkedin.com/in/f0rzend)
 - E-mail: [zhogalkostya@gmail.com](mailto:zhogalkostya@gmail.com)
 - Блог: [t.me/Forzend](https://t.me/forzend)

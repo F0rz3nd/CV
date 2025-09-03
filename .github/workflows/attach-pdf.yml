@@ -27,10 +27,10 @@ jobs:
       run: md-to-pdf README.md --launch-options='{"args":["--no-sandbox"]}'
       shell: bash
     
-    - uses: ncipollo/release-action@v1
+    - uses: ncipollo/release-action@v1.20
       with:
-        tag_name: ${{ github.ref }}
-        release_name: Release ${{ github.ref }}
+        tag: ${{ github.ref }}
+        name: Release ${{ github.ref }}
         artifacts: "README.pdf"
         token: ${{ secrets.GITHUB_TOKEN }}
         draft: true
